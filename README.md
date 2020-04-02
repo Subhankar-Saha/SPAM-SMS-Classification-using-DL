@@ -15,3 +15,8 @@ The word vectors that have been used here are of Gensim Word2Vec Model.
 
 Test Accuracy : 87%
 
+# Acknowledgment
+
+Thank You My Friend ## Arkadipta Dey (Arko98) and Dibyanayan Bandyopadhyay (newcodevelop)
+
+
