@@ -17,7 +17,9 @@ Test Accuracy : 87%
 
 # Acknowledgment
 
-Thank You My Friend
-## Arkadipta Dey (Arko98) & ## Dibyanayan Bandyopadhyay (newcodevelop)
+Thank You My Friends.
+
+    ### Arkadipta Dey (Arko98) 
+    ### Dibyanayan Bandyopadhyay (newcodevelop)
 
 
